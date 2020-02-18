@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 
 
@@ -41,7 +39,7 @@ def objective(**params):
                                     scoring="neg_mean_absolute_error"))
 
 
-# In[ ]:
+
 
 
 
